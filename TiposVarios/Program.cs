@@ -47,6 +47,16 @@ namespace TiposVarios
             Console.WriteLine(mathResult);
 
 
+            bool IsHigher = true;
+            bool IsEqual = 3 == 5;
+
+            Console.WriteLine(IsHigher);
+            Console.WriteLine(IsEqual);
+
+
+            
+
+
 
         }
     }
