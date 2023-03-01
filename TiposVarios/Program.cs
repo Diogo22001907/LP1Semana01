@@ -23,6 +23,22 @@ namespace TiposVarios
             Console.WriteLine(HousePrice);
             Console.WriteLine(weight);
             Console.WriteLine(size);
+
+
+            char LatinU = 'Ǔ';
+            char LatinE = 'Ȅ';
+            char Exclamation = '!';
+            char li = 'ਈ';
+            char ca = 'ਚ';
+
+            Console.WriteLine(LatinU);
+            Console.WriteLine(LatinE);
+            Console.WriteLine(Exclamation);
+            Console.WriteLine(li);
+            Console.WriteLine(ca);
+
+
+
         }
     }
 }
