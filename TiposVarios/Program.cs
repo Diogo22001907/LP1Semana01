@@ -38,6 +38,15 @@ namespace TiposVarios
             Console.WriteLine(ca);
 
 
+            float pi = 3.1415f;
+            double preciseWeight = 77.5234;
+            decimal mathResult = 3.99999999m;
+
+            Console.WriteLine(pi);
+            Console.WriteLine(preciseWeight);
+            Console.WriteLine(mathResult);
+
+
 
         }
     }
